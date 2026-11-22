@@ -4,6 +4,10 @@
 
 ## Download
 
+🎁 **[Download LivDispatch Free](https://github.com/jartzberger/LivDispatch-Releases/releases/tag/free-v1.0.0-build8)**: the free community edition (`LivDispatch-Free-Setup.exe` for Windows, `LivDispatch-Free-Mac.dmg` for Mac).
+
+**LivDispatch (full version):**
+
 👉 **[Get the latest LivDispatch](https://github.com/jartzberger/LivDispatch-Releases/releases/latest)**
 
 - **Windows:** download `LivDispatch-Setup.exe` and double-click it. If Windows says "Windows protected your PC", click **More info → Run anyway**.
